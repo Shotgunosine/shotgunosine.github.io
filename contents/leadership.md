@@ -1,0 +1,1 @@
+TL; DR: Our mission is understanding and improving mental health. I lead teams through honest communication and collaboration with integrity to embrace the difficulty of this mission and solve problems through creativity and perseverance.
