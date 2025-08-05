@@ -1,3 +1,4 @@
+<img src=static/assets/leadership/national_mental_health_act.png width="60%" alt="Mental Health Act">
 
 Our mission is understanding and improving mental health. I lead distributed collaborations through integrity and honest communication. We solve problems through creativity and perseverance.  
 
