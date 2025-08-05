@@ -1,16 +1,10 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Shotgunosine](https://img.shields.io/badge/Shotgunosine-github-blue%3Flogo%3Dgithub)]
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Staff Scientist in the Machine Learning Core at the National Institute of Mental Health.
+All views expressed herein are my own and do not reflect the official positions of the NIMH.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+My research centers on the intersection of machine learning, neuroimaging, and psychiatry, with a focus on improving the clinical relevance of computational tools in mental health. I am is particularly interested in aligning psychiatric constructs with patient experiences and developing personalized, data-driven approaches to understand adolescent depression, mood dynamics, and reward processing. My work leverages advanced neuroimaging techniques (fMRI, MEG), longitudinal data analysis, and open-source tool development to study brain-behavior relationships and support reproducible science. I also contributes to methodological innovations in quality control, scanner harmonization, and the application of large language models to psychiatric research.

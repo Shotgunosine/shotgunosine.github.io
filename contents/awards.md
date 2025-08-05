@@ -1,9 +1,39 @@
-- First-prize Academic Scholarship, 2023.
+- NIMH Special Act Award to the Machine Learning Team, 2023.
 
-- Freshman Academic Scholarship, 2022.
+- NIMH Director’s Award to the Coronavirus Health Impact Survey Team, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- NIH Intramural Research Loan Repayment Program, 2019 - Present.
 
-- First-prize Enterprise Scholarship, 2021.
+- Kelly Government Solutions Distinguished Achievement Award, 2018.
 
-- First-prize Academic Scholarship, 2019.
+- Freddie Mac Game Changer Award, 2016.
+
+- OSUMC Trainee Research Day Poster Award, 2015.
+
+- Choose Ohio First for Bioinformatics Scholarship, 2011 - 2014.
+
+- 100+ Hours of Community Service Award, 2010 & 2011.
+
+- M.D./Ph.D. Leadership and Academic Achievement Scholarship, 2010 & 2011.
+
+- Ohio State University Graduate Fellowship, 2009.
+
+- Calhoun Honors College, 2003 - 2007
+
+- Palmetto Fellows Scholar, 2003 - 2007
+
+- Departmental Honors Research Grant, 2006.
+
+- Calhoun Honors College Grant, 2006.
+
+- SC LIFE, 2006. 
+
+- Howard Hughes Medical Institute Research Grant, 2006.
+
+- Chemistry Faculty Award, 2005.
+
+- Outstanding Undergraduate in Analytical Chemistry, 2005.
+
+- Outstanding Undergraduate in Organic Chemistry, 2004.
+
+- Eagle Scout, 2003.
