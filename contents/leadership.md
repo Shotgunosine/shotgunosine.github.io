@@ -28,6 +28,6 @@ An understanding of mental illness that incorporates neurobiological insights wh
 
 I'm a capable individual contributor and I will always do the best work I can. Sometimes this means I miss opportunities to delegate tasks that would otherwise be great growth opportunities. Other times this means we'll need to push hard to meet a deadline. We'll communicate honestly about learning goals and project timelines, and keep communicating to adapt as things change.  
 
-I really do value feedback and communication. I want to get better at this. If there's a specific instance when I could have been a better leader, or a general observation about how I could improve, [Please let me know](mailto:Dylan.Nielson@gmail.com).
+I really do value feedback and communication. I want to get better at this. If there's a specific instance when I could have been a better leader, or a general observation about how I could improve, [please let me know](mailto:Dylan.Nielson@gmail.com).
 
 
