@@ -4,11 +4,11 @@ Our mission is understanding and improving mental health. I lead distributed col
 
 ## Vision
 
-An integrated understanding of mental illness that incoproates neurobiological insights while respecting the uniquely personal and subjective experience of these symptoms.  
+An integrated understanding of mental illness that incorporates neurobiological insights while respecting the uniquely personal and subjective experience of these symptoms. Plainly, an understanding of mental illness   
 
 ## Core Values and Principles
 
-- Honesty: We can't move forward if we're not standing on firm ground. We have to be honest with ourselves and with each other about what our evidence supports.  
+- Honesty: We can't move forward if we're not standing on firm ground. We have to be honest with ourselves and with each other about what our evidence supports and what else could explain our observations.  
 *Ask questions fearlessly. Always admit mistakes.*   
 
 - Communication: Open communication [stops most problems before they start](https://tvtropes.org/pmwiki/pmwiki.php/Main/PoorCommunicationKills).  
@@ -26,8 +26,8 @@ An integrated understanding of mental illness that incoproates neurobiological i
 
 ## Working with me
 
-I'm a capable individual contributor and I will always do the best work I can. Sometimes this means I miss opportunities to delegate tasks that would otherwise be great growth opportunities. Other times this means we'll need to push had to meet a deadline. We'll communicate honestly about learning goals and project timelines, and keep communicating to adapt as things change.  
+I'm a capable individual contributor and I will always do the best work I can. Sometimes this means I miss opportunities to delegate tasks that would otherwise be great growth opportunities. Other times this means we'll need to push hard to meet a deadline. We'll communicate honestly about learning goals and project timelines, and keep communicating to adapt as things change.  
 
-I really do value feedback and communication. I want to get better at this. If there's a specific instance when I could have been a better leader, or a general observation about how I could improve. [Please let me know](mailto:Dylan.Nielson@gmail.com).
+I really do value feedback and communication. I want to get better at this. If there's a specific instance when I could have been a better leader, or a general observation about how I could improve, [Please let me know](mailto:Dylan.Nielson@gmail.com).
 
 

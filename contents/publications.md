@@ -9,7 +9,7 @@
 Pine, DS, Zheng, C, <strong>Nielson, DM</strong>, Stringaris, A. Passage-of-Time Dysphoria: A Highly
 Replicable Decline in Mood During Rest and Simple Tasks that is Moderated by
 Depression. *Nature Human Behavior*; <strong>2023</strong>. 7(4)  
-[[Paper]](https://doi.org/10.1038/s41562-023-01519-7) | [[Code]](https://github.com/djangraw/MoodDrift) |  [[Data]](https://osf.io/km69z/)
+[[Paper]](https://doi.org/10.1038/s41562-023-01519-7) | [[Code]](https://github.com/djangraw/MoodDrift) |  [[Data]](https://osf.io/km69z/)  
 - Zelenina, M, Pine, DS, Stringaris, A, <strong>Nielson, DM</strong>. Validation of CBCL depression scores of adolescents in three independent datasets. *JCPP Advances*; <strong>2023</strong>.  
 [[Paper]](https://acamh.onlinelibrary.wiley.com/doi/full/10.1002/jcv2.12298) | [[Code]](https://github.com/transatlantic-comppsych/CBCL_Aff_Validation)
 - Sadeghi, N, Fors, PQ, Eisner, L, Taigman, J, Qi, K, Gorham, LS, Camp, CC,
