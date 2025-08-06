@@ -22,7 +22,7 @@ An understanding of mental illness that incorporates neurobiological insights wh
 
 ## Influences and Teachers
 
-[Richard Feynman](https://calteches.library.caltech.edu/51/2/CargoCult.htm), [Scouting](https://www.scouting.org/outdoor-programs/leave-no-trace/), [Kelly Smith](https://kcs098.wixsite.com/research/my-research), [Per Sederberg](https://psychology.as.virginia.edu/people/sederberg), [Adam Thomas](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/adam-g-thomas-phd), [Argyris Stringaris](https://profiles.ucl.ac.uk/86742-argyris-stringaris), [Francisco Pereira](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/francisco-pereira-phd), rock climbing, my parents, my sister, my son, and my wife.
+[Richard Feynman](https://calteches.library.caltech.edu/51/2/CargoCult.htm), [Scouting](https://www.scouting.org/outdoor-programs/leave-no-trace/), [Kelly Smith](https://kcs098.wixsite.com/research/my-research), [Per Sederberg](https://psychology.as.virginia.edu/people/sederberg), [Adam Thomas](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/adam-g-thomas-phd), [Argyris Stringaris](https://profiles.ucl.ac.uk/86742-argyris-stringaris), [Francisco Pereira](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/francisco-pereira-phd), [rock climbing](https://youtube.com/shorts/kWPgUisx76U?si=4x97Ml71fkh5q1dU), my parents, my sister, my son, and my wife.
 
 ## Working with me
 
