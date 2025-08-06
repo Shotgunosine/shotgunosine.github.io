@@ -1,6 +1,6 @@
 
 
-[![Shotgunosine](https://img.shields.io/badge/Shotgunosine-github-blue%3Flogo%3Dgithub)]
+![Shotgunosine](https://img.shields.io/badge/Shotgunosine-github-blue%3Flogo%3Dgithub)
 
 Staff Scientist in the [Machine Learning Core](mlc.nimh.nih.gov) at the National Institute of Mental Health.  
 All views expressed herein are my own and do not reflect the official positions of the NIMH.
