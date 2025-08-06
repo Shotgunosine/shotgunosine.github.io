@@ -5,10 +5,10 @@
 ![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
 ![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
-# A simple Github Pages template for academic personal website.
+# A simple Github Pages template for academic personal website with a leadership section
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/shotgunosine/shotgunosine.github.io/main/screenshot_full.png)](https://dylannielson.com/)
 
 
 ## Introduction
@@ -19,7 +19,7 @@ The template is designed to integrate Markdown files as content input.  There's 
 
 This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
 
-:milky_way: Demo: https://senli1073.github.io/
+:milky_way: Demo: https://dylannielson.com
 
 
 ## Getting Start
@@ -45,13 +45,17 @@ The directory structure is as follows:
     └── js
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+(2) Modify the content of each section, which corresponds to `contents/*.md`. If you search for TOKUM you should find all the things that need to be changed. Refer to [markdown guides](https://www.markdownguide.org/) for formatting.
 
 (3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
 (4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
 
-(5) Push it: 
+(5) Replace your photo in `static/assets/img/`
+
+(6) Use [a favicon generator](https://favicon.io/favicon-converter/) to convert your photo into an icon for the browser tab and replace all of the files under assets.
+
+(7) Push it: 
 ```
 git commit -am 'init'
 git push
