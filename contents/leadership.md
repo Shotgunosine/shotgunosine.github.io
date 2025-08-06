@@ -2,11 +2,11 @@
 
 Our mission is understanding and improving mental health. I lead distributed collaborations through integrity and honest communication. We solve problems through creativity and perseverance.  
 
-## Vision
+### Vision
 
 An understanding of mental illness that incorporates neurobiological insights while respecting the uniquely personal and subjective experience of these symptoms.   
 
-## Core Values and Principles
+### Core Values and Principles
 
 - Honesty: We can't move forward if we're not standing on firm ground. We have to be honest with ourselves and with each other about what our evidence supports and what else could explain our observations.  
 *Ask questions fearlessly. Always admit mistakes.*   
@@ -20,11 +20,11 @@ An understanding of mental illness that incorporates neurobiological insights wh
 - Collaboration: Our whole community is all on the same team; we should all be pulling together.  
 *Leave things better than you found them (give feedback, submit bug reports and pull requests).* 
 
-## Influences and Teachers
+### Influences and Teachers
 
 [Richard Feynman](https://calteches.library.caltech.edu/51/2/CargoCult.htm), [Scouting](https://www.scouting.org/outdoor-programs/leave-no-trace/), [Kelly Smith](https://kcs098.wixsite.com/research/my-research), [Per Sederberg](https://psychology.as.virginia.edu/people/sederberg), [Adam Thomas](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/adam-g-thomas-phd), [Argyris Stringaris](https://profiles.ucl.ac.uk/86742-argyris-stringaris), [Francisco Pereira](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/francisco-pereira-phd), [rock climbing](https://youtube.com/shorts/kWPgUisx76U?si=4x97Ml71fkh5q1dU), my parents, my sister, my son, and my wife.
 
-## Working with me
+### Working with me
 
 I'm a capable individual contributor and I will always do the best work I can. Sometimes this means I miss opportunities to delegate tasks that would otherwise be great growth opportunities. Other times this means we'll need to push hard to meet a deadline. We'll communicate honestly about learning goals and project timelines, and keep communicating to adapt as things change.  
 
