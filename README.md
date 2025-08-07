@@ -33,7 +33,7 @@ git clone https://github.com/<username>/<username>.github.io.git
 ```
 
 ### 3. Delete my content
-(This bit's untested, let me know if it doesn't work)
+(This bit's untested, let me know if it doesn't work)  
 (1) Go to the folder where you cloned the repo
 ```
 cd <username>.github.io
@@ -82,7 +82,7 @@ git commit -am 'init'
 git push
 ```
 
-### 3. Enjoy
+### 4. Enjoy
 
 Fire up a browser and go to `https://<username>.github.io`
 
@@ -90,6 +90,6 @@ Fire up a browser and go to `https://<username>.github.io`
 
 ## License
 
-Template: Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+Original Template: Copyright Sen Li, 2023. Modified by Dylan Nielson, 2025. Licensed under an MIT license. You can copy and mess with this template.
 Content: Copyright Dylan Nielson, 2025, free to use on [CC-By-NC 4.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by-nc-nd.markdown)
 
