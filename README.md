@@ -51,8 +51,8 @@ Now you can edit your main branch to add your content.
 
 ### 3. Edit page content
 
-(1) If you're not already there, go to the folder cloned the repo:
-The directory structure is as follows:
+(1) If you're not already there, go to the folder cloned the repo.  
+The directory structure is as follows:  
 
 ```.
 .
