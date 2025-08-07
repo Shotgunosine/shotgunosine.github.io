@@ -90,6 +90,6 @@ Fire up a browser and go to `https://<username>.github.io`
 
 ## License
 
-Original Template: Copyright Sen Li, 2023. Modified by Dylan Nielson, 2025. Licensed under an MIT license. You can copy and mess with this template.
+Original Template: Copyright Sen Li, 2023. Modified by Dylan Nielson, 2025. Licensed under an MIT license. You can copy and mess with this template.  
 Content: Copyright Dylan Nielson, 2025, free to use on [CC-By-NC 4.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by-nc-nd.markdown)
 
