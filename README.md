@@ -1,8 +1,4 @@
 
-
-![License](https://img.shields.io/github/license/shotgunosine/shotgunosine.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/shotgunosine/shotgunosine.github.io)
-
 # A simple Github Pages template for academic personal website with a leadership section
 
 ## Preview
