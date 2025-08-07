@@ -26,13 +26,32 @@ This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as
 ### 1. Fork this repository
 The repository name should be `<username>.github.io`, which will also be your website's URL.
 
-
-### 2. Edit page content
-
-(1) Go to the folder where you want to store your project, and clone the new repository:
+### 2. Download the repo
+Go to the folder where you want to store your project, and clone the new repository:
 ```
 git clone https://github.com/<username>/<username>.github.io.git
 ```
+
+### 3. Delete my content
+(This bit's untested, let me know if it doesn't work)
+(1) Go to the folder where you cloned the repo
+```
+cd <username>.github.io
+```
+(2) Reset the main branch so it exactly matches the template branch
+```
+git reset --hard template
+```
+
+(3) Push your changes back to github
+```
+git push origin main --force
+```
+Now you can edit your main branch to add your content.
+
+### 3. Edit page content
+
+(1) If you're not already there, go to the folder cloned the repo:
 The directory structure is as follows:
 
 ```.
@@ -45,7 +64,9 @@ The directory structure is as follows:
     └── js
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`. If you search for TOKUM you should find all the things that need to be changed. Refer to [markdown guides](https://www.markdownguide.org/) for formatting.
+(2) Modify the content of each section, which corresponds to `contents/*.md`. If you search for TOKUM you should find all the things that need to be changed. Refer to [markdown guides](https://www.markdownguide.org/) for formatting. You can see an example of how to embed an image [here](https://github.com/Shotgunosine/shotgunosine.github.io/blob/bdf2170d70a49d5066e6566863c457ea1acb7216/contents/leadership.md?plain=1#L1)
+
+(3) If you want to have different sections, you'll need to edit [this part of index.html](https://github.com/Shotgunosine/shotgunosine.github.io/blob/fb0b8c020c223f686c2312ab1bcfecd7b3d73c8a/index.html#L97-L113), [this line of the script](https://github.com/Shotgunosine/shotgunosine.github.io/blob/fb0b8c020c223f686c2312ab1bcfecd7b3d73c8a/static/js/scripts.js#L5), and add the appropriatly named markdown file to the contents directory.
 
 (3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
@@ -60,7 +81,6 @@ The directory structure is as follows:
 git commit -am 'init'
 git push
 ```
-
 
 ### 3. Enjoy
 
